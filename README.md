@@ -13,3 +13,7 @@ Expenses - 03B After Securing Service: Next, we add the ability for you to login
 Expenses - 04 After Hybrid Connection: Here, we see how to leave the data in on-prems SQL Server and call it from the WCF service in the cloud.
 
 Expenses - 05 After Service Bus: Finally, we see how to call an internal WCF service from the cloud hosted WCF service. 
+
+The docs are a bit of a work in progress. They were originally written for an MVA course. I have been slowly updating them, mostly to reflect changes in the Azure portal user interface. 
+
+If you have any questions, please don't hesitate to contact me. Best way is to email me directly (rogreen at microsoft).
